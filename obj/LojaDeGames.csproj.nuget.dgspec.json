@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos\\OneDrive\\Área de Trabalho\\LojaDeGames\\LojaDeGames\\LojaDeGames.csproj": {}
+    "C:\\Users\\Carlos\\OneDrive\\Área de Trabalho\\LojaDeGames\\Loja De Games\\LojaDeGames.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos\\OneDrive\\Área de Trabalho\\LojaDeGames\\LojaDeGames\\LojaDeGames.csproj": {
+    "C:\\Users\\Carlos\\OneDrive\\Área de Trabalho\\LojaDeGames\\Loja De Games\\LojaDeGames.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos\\OneDrive\\Área de Trabalho\\LojaDeGames\\LojaDeGames\\LojaDeGames.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos\\OneDrive\\Área de Trabalho\\LojaDeGames\\Loja De Games\\LojaDeGames.csproj",
         "projectName": "LojaDeGames",
-        "projectPath": "C:\\Users\\Carlos\\OneDrive\\Área de Trabalho\\LojaDeGames\\LojaDeGames\\LojaDeGames.csproj",
+        "projectPath": "C:\\Users\\Carlos\\OneDrive\\Área de Trabalho\\LojaDeGames\\Loja De Games\\LojaDeGames.csproj",
         "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos\\OneDrive\\Área de Trabalho\\LojaDeGames\\LojaDeGames\\obj\\",
+        "outputPath": "C:\\Users\\Carlos\\OneDrive\\Área de Trabalho\\LojaDeGames\\Loja De Games\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
